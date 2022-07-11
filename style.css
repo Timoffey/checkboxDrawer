@@ -2,5 +2,5 @@
 .checkbox input[type="checkbox"] {display: none;}
 .checkbox {width: 1rem; height: 1rem;}
 .primaryColor {height: 1rem; width: 1rem;}
-.panel {user-select: none;}
+body {user-select: none;}
 
